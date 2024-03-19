@@ -70,4 +70,5 @@ Demo:
 
 - Acknowledgement: Inspired by the [QuickAdd](https://github.com/chhoumann/quickadd) plugin for Obsidian. RapidAdd is basically just a simplified version of the *capture* functionality in QuickAdd but with the CLI.
 - Environment: This project was developed and tested only on macOS.
+- Caution: Before using the tool, especially for the first time or on critical files, ensure you have backups of your data.
 - Feedback and contributions: If you encounter any bugs or issues or have suggestions, feel free to reach out.
