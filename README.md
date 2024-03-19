@@ -2,6 +2,8 @@
 
 RapidAdd is a simple command-line tool for quickly adding notes and logging daily activities directly into a daily plain text file (like md or txt), without leaving your terminal. It aims to eliminate the inconvenience of switching to or opening note-taking apps (such as Obsidian) just to jot down a quick note. This approach helps maintain focus by avoiding unintentional distractions from other applications or from previously written tasks and notes in your daily log. If you like keeping things straightforward and prefer using the terminal for as much as possible, RapidAdd could be a handy addition to your toolkit.
 
+![Demo of using RapidAdd](demo.gif)
+
 ### Installation
 
 To use RapidAdd, you need to have Rust and Cargo installed on your machine. If you don't have Rust installed, you can install it by following the instructions at [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
