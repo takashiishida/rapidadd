@@ -61,7 +61,10 @@ You can also print the daily log file:
 rapidadd -p
 ```
 
+Demo:
+
 ![Demo of using RapidAdd](demo.gif)
+*Note that there's no need to open the note-taking app when using this.*
 
 ### Additional information
 
